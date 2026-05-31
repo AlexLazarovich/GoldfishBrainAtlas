@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+# source PDF — copyrighted, do not redistribute
+*.pdf
+docs/data/*.bak
+# everything below is local-only; the deployed site lives entirely under docs/
+/sections/
+/acronyms.txt
+/tools/
+/archive/
+/drive/

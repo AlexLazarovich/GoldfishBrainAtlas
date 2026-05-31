@@ -1,0 +1,2917 @@
+{
+  "1": [
+    {
+      "acro": "Dmr",
+      "name": "Rostral Part of Medial Subdivision of Area Dorsalis",
+      "x": 349,
+      "y": 133,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dld",
+      "name": "Dorsal Subdivision of Lateral Division of Area Dorsalis",
+      "x": 206,
+      "y": 204,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv",
+      "name": "Ventral Subdivision of Lateral Division of Area Dorsalis",
+      "x": 95,
+      "y": 341,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vd",
+      "name": "Dorsal Nucleus of Area Ventralis",
+      "x": 397,
+      "y": 320,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "mo",
+      "name": "Medial Olfactory Tract",
+      "x": 386,
+      "y": 541,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "2": [
+    {
+      "acro": "Dmr",
+      "name": "Rostral Part of Medial Subdivision of Area Dorsalis",
+      "x": 416,
+      "y": 186,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dld",
+      "name": "Dorsal Subdivision of Lateral Division of Area Dorsalis",
+      "x": 191,
+      "y": 308,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vd",
+      "name": "Dorsal Nucleus of Area Ventralis",
+      "x": 564,
+      "y": 409,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "mo",
+      "name": "Medial Olfactory Tract",
+      "x": 582,
+      "y": 577,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "lo",
+      "name": "Lateral Olfactory Tract",
+      "x": 376,
+      "y": 642,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv",
+      "name": "Ventral Subdivision of Lateral Division of Area Dorsalis",
+      "x": 171,
+      "y": 496,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "3": [
+    {
+      "acro": "Vdd",
+      "name": "Dorsal Subnucleus of Vd",
+      "x": 665,
+      "y": 270,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dm",
+      "name": "Medial Subdivision of Area Dorsalis",
+      "x": 507,
+      "y": 65,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dc",
+      "name": "Large-Celled Subdivision of Dm",
+      "x": 481,
+      "y": 255,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dd",
+      "name": "Dorsal Division of Area Dorsalis",
+      "x": 314,
+      "y": 130,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dld",
+      "name": "Dorsal Subdivision of Lateral Division of Area Dorsalis",
+      "x": 167,
+      "y": 222,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv-d",
+      "name": "Dorsal Part of Dlv",
+      "x": 111,
+      "y": 395,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vc",
+      "name": "Central Nucleus of Area Ventralis",
+      "x": 479,
+      "y": 546,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vd",
+      "name": "Dorsal Nucleus of Area Ventralis",
+      "x": 646,
+      "y": 436,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vv",
+      "name": "Ventral Nucleus of Area Ventralis",
+      "x": 679,
+      "y": 592,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv-v",
+      "name": "Ventral Part of Dlv",
+      "x": 163,
+      "y": 589,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "lo",
+      "name": "Lateral Olfactory Tract",
+      "x": 485,
+      "y": 741,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "4": [
+    {
+      "acro": "Vdd",
+      "name": "Dorsal Subnucleus of Vd",
+      "x": 695,
+      "y": 264,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dm",
+      "name": "Medial Subdivision of Area Dorsalis",
+      "x": 534,
+      "y": 81,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dc",
+      "name": "Large-Celled Subdivision of Dm",
+      "x": 561,
+      "y": 288,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dd",
+      "name": "Dorsal Division of Area Dorsalis",
+      "x": 300,
+      "y": 188,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dld",
+      "name": "Dorsal Subdivision of Lateral Division of Area Dorsalis",
+      "x": 164,
+      "y": 384,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv",
+      "name": "Ventral Subdivision of Lateral Division of Area Dorsalis",
+      "x": 191,
+      "y": 658,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vl",
+      "name": "Nucleus Ventrolateralis Thalami",
+      "x": 414,
+      "y": 630,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vdv",
+      "name": "Ventral Subnucleus of Vd",
+      "x": 640,
+      "y": 520,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vdi",
+      "name": "Intermediate Subnucleus of Vd",
+      "x": 691,
+      "y": 430,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vv",
+      "name": "Ventral Nucleus of Area Ventralis",
+      "x": 702,
+      "y": 621,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "lo",
+      "name": "Lateral Olfactory Tract",
+      "x": 421,
+      "y": 784,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "5": [
+    {
+      "acro": "Dm",
+      "name": "Medial Subdivision of Area Dorsalis",
+      "x": 351,
+      "y": 94,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dd",
+      "name": "Dorsal Division of Area Dorsalis",
+      "x": 182,
+      "y": 219,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dc",
+      "name": "Large-Celled Subdivision of Dm",
+      "x": 377,
+      "y": 258,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vdd",
+      "name": "Dorsal Subnucleus of Vd",
+      "x": 585,
+      "y": 318,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vdi",
+      "name": "Intermediate Subnucleus of Vd",
+      "x": 563,
+      "y": 452,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vdv",
+      "name": "Ventral Subnucleus of Vd",
+      "x": 579,
+      "y": 550,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vv",
+      "name": "Ventral Nucleus of Area Ventralis",
+      "x": 591,
+      "y": 709,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vl",
+      "name": "Nucleus Ventrolateralis Thalami",
+      "x": 385,
+      "y": 581,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "lo",
+      "name": "Lateral Olfactory Tract",
+      "x": 302,
+      "y": 654,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv-v",
+      "name": "Ventral Part of Dlv",
+      "x": 127,
+      "y": 591,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv-d",
+      "name": "Dorsal Part of Dlv",
+      "x": 115,
+      "y": 457,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dld",
+      "name": "Dorsal Subdivision of Lateral Division of Area Dorsalis",
+      "x": 115,
+      "y": 334,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "6": [
+    {
+      "acro": "Dmc",
+      "name": "Caudal Part of Medial Subdivision of Area Dorsalis",
+      "x": 298,
+      "y": 151,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dc",
+      "name": "Large-Celled Subdivision of Dm",
+      "x": 320,
+      "y": 334,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vs",
+      "name": "Supracommissural Nucleus of Area Ventralis",
+      "x": 517,
+      "y": 363,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dd",
+      "name": "Dorsal Division of Area Dorsalis",
+      "x": 86,
+      "y": 265,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dld",
+      "name": "Dorsal Subdivision of Lateral Division of Area Dorsalis",
+      "x": 86,
+      "y": 338,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv-d",
+      "name": "Dorsal Part of Dlv",
+      "x": 111,
+      "y": 446,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dlv-v",
+      "name": "Ventral Part of Dlv",
+      "x": 145,
+      "y": 542,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "E",
+      "name": "Nucleus Entopeduncularis",
+      "x": 396,
+      "y": 622,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "lo",
+      "name": "Lateral Olfactory Tract",
+      "x": 219,
+      "y": 607,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "ac",
+      "name": "Anterior Commissure",
+      "x": 582,
+      "y": 564,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PPa",
+      "name": "Nucleus Preopticus Parvocellularis Anterioris",
+      "x": 597,
+      "y": 767,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "7": [
+    {
+      "acro": "Dmc",
+      "name": "Caudal Part of Medial Subdivision of Area Dorsalis",
+      "x": 305,
+      "y": 156,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vs",
+      "name": "Supracommissural Nucleus of Area Ventralis",
+      "x": 475,
+      "y": 297,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vp",
+      "name": "Postcommissural Nucleus of Area Ventralis",
+      "x": 493,
+      "y": 390,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dd",
+      "name": "Dorsal Division of Area Dorsalis",
+      "x": 140,
+      "y": 266,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Dp",
+      "name": "Posterior Division of Area Dorsalis",
+      "x": 117,
+      "y": 425,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Vi",
+      "name": "Intermediate Nucleus of Area Ventralis",
+      "x": 374,
+      "y": 459,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PPa",
+      "name": "Nucleus Preopticus Parvocellularis Anterioris",
+      "x": 521,
+      "y": 569,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PMm",
+      "name": "Nucleus Preopticus Magnocellularis, Pars Magnocellularis",
+      "x": 563,
+      "y": 708,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "E",
+      "name": "Nucleus Entopeduncularis",
+      "x": 371,
+      "y": 606,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Nt",
+      "name": "Nucleus Taeniae",
+      "x": 260,
+      "y": 557,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "ot",
+      "name": "Optic Tract",
+      "x": 345,
+      "y": 868,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "8": [
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 371,
+      "y": 312,
+      "w": 59,
+      "h": 26,
+      "conf": 79
+    },
+    {
+      "acro": "VL",
+      "name": "Nucleus Ventrolateralis Thalami",
+      "x": 668,
+      "y": 606,
+      "w": 39,
+      "h": 26,
+      "conf": 96
+    },
+    {
+      "acro": "PMg",
+      "name": "Nucleus Preopticus Magnocellularis, Pars Gigantocellularis",
+      "x": 711,
+      "y": 674,
+      "w": 62,
+      "h": 34,
+      "conf": 91
+    },
+    {
+      "acro": "PGa",
+      "name": "Nucleus Preglomerulosus Anterior",
+      "x": 491,
+      "y": 969,
+      "w": 58,
+      "h": 26,
+      "conf": 91
+    },
+    {
+      "acro": "TV",
+      "name": "Nucleus Tuberis Ventralis",
+      "x": 780,
+      "y": 1007,
+      "w": 43,
+      "h": 26,
+      "conf": 66
+    },
+    {
+      "acro": "DiV",
+      "name": "Diencephalic Ventricle",
+      "x": 828,
+      "y": 499,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "HB",
+      "name": "Habenula",
+      "x": 723,
+      "y": 426,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CPN",
+      "name": "Nucleus Pretectalis Centralis",
+      "x": 567,
+      "y": 500,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSm",
+      "name": "Magnocellular Part of Superficial Pretectal Nucleus",
+      "x": 456,
+      "y": 632,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSp",
+      "name": "Parvocellular Part of Superficial Pretectal Nucleus",
+      "x": 371,
+      "y": 600,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "SC",
+      "name": "Nucleus Suprachiasmaticus",
+      "x": 761,
+      "y": 839,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PPp",
+      "name": "Nucleus Preopticus Parvocellularis Posterioris",
+      "x": 784,
+      "y": 765,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VM",
+      "name": "Nucleus Ventromedialis Thalami",
+      "x": 739,
+      "y": 593,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "A",
+      "name": "Anterior Thalamic Nucleus",
+      "x": 729,
+      "y": 520,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "I",
+      "name": "Intermedius Thalamic Nucleus",
+      "x": 722,
+      "y": 542,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "9": [
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 171,
+      "y": 305,
+      "w": 62,
+      "h": 27,
+      "conf": 96
+    },
+    {
+      "acro": "HB",
+      "name": "Habenula",
+      "x": 744,
+      "y": 555,
+      "w": 66,
+      "h": 113,
+      "conf": 62,
+      "manual": true
+    },
+    {
+      "acro": "VL",
+      "name": "Nucleus Ventrolateralis Thalami",
+      "x": 689,
+      "y": 706,
+      "w": 39,
+      "h": 27,
+      "conf": 62
+    },
+    {
+      "acro": "VM",
+      "name": "Nucleus Ventromedialis Thalami",
+      "x": 749,
+      "y": 698,
+      "w": 49,
+      "h": 45,
+      "conf": 90
+    },
+    {
+      "acro": "SG",
+      "name": "Nucleus Subglomerulosus",
+      "x": 775,
+      "y": 905,
+      "w": 39,
+      "h": 27,
+      "conf": 95
+    },
+    {
+      "acro": "PGa",
+      "name": "Nucleus Preglomerulosus Anterior",
+      "x": 587,
+      "y": 1104,
+      "w": 60,
+      "h": 27,
+      "conf": 92
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 349,
+      "y": 350,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 651,
+      "y": 367,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CPN",
+      "name": "Nucleus Pretectalis Centralis",
+      "x": 543,
+      "y": 605,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSm",
+      "name": "Magnocellular Part of Superficial Pretectal Nucleus",
+      "x": 464,
+      "y": 758,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSp",
+      "name": "Parvocellular Part of Superficial Pretectal Nucleus",
+      "x": 405,
+      "y": 706,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGl",
+      "name": "Nucleus Preglomerulosus Lateralis",
+      "x": 433,
+      "y": 1048,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TV",
+      "name": "Nucleus Tuberis Ventralis",
+      "x": 773,
+      "y": 1100,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PPp",
+      "name": "Nucleus Preopticus Parvocellularis Posterioris",
+      "x": 800,
+      "y": 838,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PMg",
+      "name": "Nucleus Preopticus Magnocellularis, Pars Gigantocellularis",
+      "x": 779,
+      "y": 744,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "A",
+      "name": "Anterior Thalamic Nucleus",
+      "x": 755,
+      "y": 633,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Div",
+      "name": "Diencephalic Ventricle",
+      "x": 821,
+      "y": 517,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "10": [
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 160,
+      "y": 373,
+      "w": 64,
+      "h": 28,
+      "conf": 96
+    },
+    {
+      "acro": "HB",
+      "name": "Habenula",
+      "x": 792,
+      "y": 574,
+      "w": 46,
+      "h": 28,
+      "conf": 96
+    },
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 765,
+      "y": 334,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 553,
+      "y": 415,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 337,
+      "y": 585,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CPN",
+      "name": "Nucleus Pretectalis Centralis",
+      "x": 541,
+      "y": 656,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSm",
+      "name": "Magnocellular Part of Superficial Pretectal Nucleus",
+      "x": 512,
+      "y": 764,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSp",
+      "name": "Parvocellular Part of Superficial Pretectal Nucleus",
+      "x": 395,
+      "y": 771,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 425,
+      "y": 1005,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGl",
+      "name": "Nucleus Preglomerulosus Lateralis",
+      "x": 522,
+      "y": 1007,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGa",
+      "name": "Nucleus Preglomerulosus Anterior",
+      "x": 571,
+      "y": 1147,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TV",
+      "name": "Nucleus Tuberis Ventralis",
+      "x": 870,
+      "y": 1178,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PPp",
+      "name": "Nucleus Preopticus Parvocellularis Posterioris",
+      "x": 864,
+      "y": 859,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VL",
+      "name": "Nucleus Ventrolateralis Thalami",
+      "x": 695,
+      "y": 764,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VM",
+      "name": "Nucleus Ventromedialis Thalami",
+      "x": 798,
+      "y": 756,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "A",
+      "name": "Anterior Thalamic Nucleus",
+      "x": 800,
+      "y": 652,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "pc",
+      "name": "Posterior Commissure",
+      "x": 847,
+      "y": 504,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "DiV",
+      "name": "Diencephalic Ventricle",
+      "x": 885,
+      "y": 604,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "11": [
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 830,
+      "y": 986,
+      "w": 49,
+      "h": 32,
+      "conf": 96
+    },
+    {
+      "acro": "Hv",
+      "name": "Ventral Zone of Periventricular Hypothalamus",
+      "x": 817,
+      "y": 1115,
+      "w": 48,
+      "h": 30,
+      "conf": 96
+    },
+    {
+      "acro": "PGa",
+      "name": "Nucleus Preglomerulosus Anterior",
+      "x": 586,
+      "y": 1083,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGl",
+      "name": "Nucleus Preglomerulosus Lateralis",
+      "x": 545,
+      "y": 985,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 435,
+      "y": 993,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSp",
+      "name": "Parvocellular Part of Superficial Pretectal Nucleus",
+      "x": 440,
+      "y": 793,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PSm",
+      "name": "Magnocellular Part of Superficial Pretectal Nucleus",
+      "x": 583,
+      "y": 733,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CPN",
+      "name": "Nucleus Pretectalis Centralis",
+      "x": 604,
+      "y": 628,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 322,
+      "y": 550,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 105,
+      "y": 266,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 511,
+      "y": 371,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 613,
+      "y": 320,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 754,
+      "y": 338,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "pc",
+      "name": "Posterior Commissure",
+      "x": 851,
+      "y": 500,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "A",
+      "name": "Anterior Thalamic Nucleus",
+      "x": 800,
+      "y": 613,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VL",
+      "name": "Nucleus Ventrolateralis Thalami",
+      "x": 744,
+      "y": 722,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VM",
+      "name": "Nucleus Ventromedialis Thalami",
+      "x": 809,
+      "y": 749,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "DiV",
+      "name": "Diencephalic Ventricle",
+      "x": 889,
+      "y": 609,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "12": [
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 813,
+      "y": 240,
+      "w": 43,
+      "h": 30,
+      "conf": 96
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 932,
+      "y": 392,
+      "w": 66,
+      "h": 31,
+      "conf": 96
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 59,
+      "y": 427,
+      "w": 69,
+      "h": 31,
+      "conf": 84
+    },
+    {
+      "acro": "Pc",
+      "name": "Posterior Commissure",
+      "x": 896,
+      "y": 589,
+      "w": 41,
+      "h": 31,
+      "conf": 86
+    },
+    {
+      "acro": "DiV",
+      "name": "Diencephalic Ventricle",
+      "x": 949,
+      "y": 689,
+      "w": 62,
+      "h": 31,
+      "conf": 92
+    },
+    {
+      "acro": "DP",
+      "name": "Nucleus Dorsalis Posterior Thalami",
+      "x": 834,
+      "y": 716,
+      "w": 49,
+      "h": 31,
+      "conf": 96
+    },
+    {
+      "acro": "CP",
+      "name": "Nucleus Centralis Posterior Thalami",
+      "x": 840,
+      "y": 824,
+      "w": 48,
+      "h": 31,
+      "conf": 64
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 901,
+      "y": 1000,
+      "w": 44,
+      "h": 31,
+      "conf": 87
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 409,
+      "y": 1047,
+      "w": 46,
+      "h": 31,
+      "conf": 96
+    },
+    {
+      "acro": "PPv",
+      "name": "Nucleus Pretectalis Periventricularis, Pars Ventralis",
+      "x": 818,
+      "y": 635,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 591,
+      "y": 363,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 253,
+      "y": 652,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGl",
+      "name": "Nucleus Preglomerulosus Lateralis",
+      "x": 550,
+      "y": 1015,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGa",
+      "name": "Nucleus Preglomerulosus Anterior",
+      "x": 630,
+      "y": 1116,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TA",
+      "name": "Nucleus Tuberis Anterior",
+      "x": 860,
+      "y": 1143,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hv",
+      "name": "Ventral Zone of Periventricular Hypothalamus",
+      "x": 890,
+      "y": 1233,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TPp",
+      "name": "Periventricular Nucleus of Posterior Tuberculum",
+      "x": 847,
+      "y": 932,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "13": [
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 855,
+      "y": 189,
+      "w": 51,
+      "h": 34,
+      "conf": 96
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 110,
+      "y": 350,
+      "w": 79,
+      "h": 34,
+      "conf": 96
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 796,
+      "y": 449,
+      "w": 67,
+      "h": 36,
+      "conf": 58
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 401,
+      "y": 650,
+      "w": 78,
+      "h": 34,
+      "conf": 95
+    },
+    {
+      "acro": "pc",
+      "name": "Posterior Commissure",
+      "x": 965,
+      "y": 680,
+      "w": 47,
+      "h": 36,
+      "conf": 94,
+      "manual": true
+    },
+    {
+      "acro": "fr",
+      "name": "Fasciculus Retroflexus",
+      "x": 826,
+      "y": 727,
+      "w": 29,
+      "h": 36,
+      "conf": 32,
+      "manual": true
+    },
+    {
+      "acro": "PPv",
+      "name": "Nucleus Pretectalis Periventricularis, Pars Ventralis",
+      "x": 908,
+      "y": 722,
+      "w": 61,
+      "h": 22,
+      "conf": 32
+    },
+    {
+      "acro": "DiV",
+      "name": "Diencephalic Ventricle",
+      "x": 992,
+      "y": 783,
+      "w": 70,
+      "h": 34,
+      "conf": 91
+    },
+    {
+      "acro": "TPp",
+      "name": "Periventricular Nucleus of Posterior Tuberculum",
+      "x": 940,
+      "y": 974,
+      "w": 79,
+      "h": 45,
+      "conf": 90
+    },
+    {
+      "acro": "TG",
+      "name": "Tertiary Gustatory Nucleus",
+      "x": 576,
+      "y": 1068,
+      "w": 56,
+      "h": 34,
+      "conf": 96
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 377,
+      "y": 1184,
+      "w": 52,
+      "h": 34,
+      "conf": 96
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 249,
+      "y": 781,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 644,
+      "y": 1250,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGm",
+      "name": "Nucleus Perglomerulosus Medialis",
+      "x": 680,
+      "y": 1124,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGl",
+      "name": "Nucleus Preglomerulosus Lateralis",
+      "x": 751,
+      "y": 1037,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TA",
+      "name": "Nucleus Tuberis Anterior",
+      "x": 929,
+      "y": 1203,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hv",
+      "name": "Ventral Zone of Periventricular Hypothalamus",
+      "x": 951,
+      "y": 1400,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 945,
+      "y": 1073,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CP",
+      "name": "Nucleus Centralis Posterior Thalami",
+      "x": 821,
+      "y": 880,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "14": [
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 593,
+      "y": 407,
+      "w": 64,
+      "h": 37,
+      "conf": 90
+    },
+    {
+      "acro": "VCm",
+      "name": "Medial Lobe of Vc",
+      "x": 1014,
+      "y": 407,
+      "w": 94,
+      "h": 34,
+      "conf": 87
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 82,
+      "y": 615,
+      "w": 76,
+      "h": 34,
+      "conf": 96
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 339,
+      "y": 753,
+      "w": 80,
+      "h": 34,
+      "conf": 93
+    },
+    {
+      "acro": "TS",
+      "name": "Torus Semicircularis",
+      "x": 611,
+      "y": 782,
+      "w": 48,
+      "h": 34,
+      "conf": 93
+    },
+    {
+      "acro": "nMLF",
+      "name": "Nucleus of the Medial Longitudinal Fasciculus",
+      "x": 933,
+      "y": 780,
+      "w": 108,
+      "h": 34,
+      "conf": 90
+    },
+    {
+      "acro": "TPp",
+      "name": "Periventricular Nucleus of Posterior Tuberculum",
+      "x": 984,
+      "y": 936,
+      "w": 78,
+      "h": 43,
+      "conf": 91
+    },
+    {
+      "acro": "TP",
+      "name": "Nucleus Tuberis Posterior",
+      "x": 1046,
+      "y": 1096,
+      "w": 50,
+      "h": 34,
+      "conf": 89
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 437,
+      "y": 1210,
+      "w": 50,
+      "h": 34,
+      "conf": 96
+    },
+    {
+      "acro": "LR",
+      "name": "Lateral Recess of Diencephalic Ventricle",
+      "x": 753,
+      "y": 1455,
+      "w": 46,
+      "h": 34,
+      "conf": 96
+    },
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 913,
+      "y": 215,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 380,
+      "y": 602,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 606,
+      "y": 1242,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TG",
+      "name": "Tertiary Gustatory Nucleus",
+      "x": 682,
+      "y": 1057,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGl",
+      "name": "Nucleus Preglomerulosus Lateralis",
+      "x": 833,
+      "y": 1078,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGm",
+      "name": "Nucleus Perglomerulosus Medialis",
+      "x": 716,
+      "y": 1146,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TA",
+      "name": "Nucleus Tuberis Anterior",
+      "x": 963,
+      "y": 1240,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "LH",
+      "name": "Nucleus Lateralis Hypothalamic",
+      "x": 959,
+      "y": 1357,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hv",
+      "name": "Ventral Zone of Periventricular Hypothalamus",
+      "x": 1036,
+      "y": 1448,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "fr",
+      "name": "Fasciculus Retroflexus",
+      "x": 940,
+      "y": 853,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "15": [
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 803,
+      "y": 159,
+      "w": 55,
+      "h": 39,
+      "conf": 96
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 961,
+      "y": 236,
+      "w": 88,
+      "h": 39,
+      "conf": 95
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 67,
+      "y": 485,
+      "w": 88,
+      "h": 39,
+      "conf": 96
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 354,
+      "y": 564,
+      "w": 88,
+      "h": 39,
+      "conf": 95
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 216,
+      "y": 656,
+      "w": 94,
+      "h": 39,
+      "conf": 92
+    },
+    {
+      "acro": "TS",
+      "name": "Torus Semicircularis",
+      "x": 401,
+      "y": 748,
+      "w": 57,
+      "h": 39,
+      "conf": 93
+    },
+    {
+      "acro": "TEG",
+      "name": "Mesencephalic Tegmentum",
+      "x": 721,
+      "y": 829,
+      "w": 92,
+      "h": 39,
+      "conf": 91
+    },
+    {
+      "acro": "Hc",
+      "name": "Caudal Zone of Periventricular Hypothalamus",
+      "x": 988,
+      "y": 1397,
+      "w": 79,
+      "h": 39,
+      "conf": 53
+    },
+    {
+      "acro": "PR",
+      "name": "Posterior Recess of Diencephalic Ventricle",
+      "x": 880,
+      "y": 1660,
+      "w": 55,
+      "h": 39,
+      "conf": 97
+    },
+    {
+      "acro": "Hc",
+      "name": "Caudal Zone of Periventricular Hypothalamus",
+      "x": 872,
+      "y": 1522,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 670,
+      "y": 1408,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 493,
+      "y": 1489,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TLa",
+      "name": "Nucleus of the Torus Lateralis",
+      "x": 446,
+      "y": 1194,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PT",
+      "name": "Nucleus Posterior Thalami",
+      "x": 595,
+      "y": 1157,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "SG",
+      "name": "Nucleus Subglomerulosus",
+      "x": 750,
+      "y": 1253,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TG",
+      "name": "Tertiary Gustatory Nucleus",
+      "x": 849,
+      "y": 1218,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "nMLF",
+      "name": "Nucleus of the Medial Longitudinal Fasciculus",
+      "x": 988,
+      "y": 890,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VCm",
+      "name": "Medial Lobe of Vc",
+      "x": 829,
+      "y": 589,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 466,
+      "y": 511,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "16": [
+    {
+      "acro": "TL",
+      "name": "Torus Longitudinalis",
+      "x": 807,
+      "y": 181,
+      "w": 50,
+      "h": 37,
+      "conf": 96
+    },
+    {
+      "acro": "TeV",
+      "name": "Tectal Ventricle",
+      "x": 970,
+      "y": 282,
+      "w": 80,
+      "h": 71,
+      "conf": 95
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 539,
+      "y": 459,
+      "w": 69,
+      "h": 39,
+      "conf": 88
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 69,
+      "y": 534,
+      "w": 80,
+      "h": 37,
+      "conf": 96
+    },
+    {
+      "acro": "VCm",
+      "name": "Medial Lobe of Vc",
+      "x": 888,
+      "y": 553,
+      "w": 101,
+      "h": 37,
+      "conf": 84
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 234,
+      "y": 729,
+      "w": 87,
+      "h": 37,
+      "conf": 93
+    },
+    {
+      "acro": "TS",
+      "name": "Torus Semicircularis",
+      "x": 401,
+      "y": 775,
+      "w": 50,
+      "h": 37,
+      "conf": 95
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 1016,
+      "y": 872,
+      "w": 96,
+      "h": 34,
+      "conf": 90
+    },
+    {
+      "acro": "TEG",
+      "name": "Mesencephalic Tegmentum",
+      "x": 670,
+      "y": 929,
+      "w": 85,
+      "h": 37,
+      "conf": 92
+    },
+    {
+      "acro": "LR",
+      "name": "Lateral Recess of Diencephalic Ventricle",
+      "x": 631,
+      "y": 1683,
+      "w": 48,
+      "h": 37,
+      "conf": 96
+    },
+    {
+      "acro": "LV",
+      "name": "Nucleus Lateralis Valvulae",
+      "x": 686,
+      "y": 835,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "LT",
+      "name": "Nucleus Lateralis Thalami",
+      "x": 711,
+      "y": 1213,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TLa",
+      "name": "Nucleus of the Torus Lateralis",
+      "x": 475,
+      "y": 1174,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "SG",
+      "name": "Nucleus Subglomerulosus",
+      "x": 716,
+      "y": 1326,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 514,
+      "y": 1484,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGc",
+      "name": "Nucleus Preglomerulosus Caudalis",
+      "x": 904,
+      "y": 1268,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TG",
+      "name": "Tertiary Gustatory Nucleus",
+      "x": 865,
+      "y": 1342,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CM",
+      "name": "Corpus Mammillare",
+      "x": 883,
+      "y": 1477,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 720,
+      "y": 1706,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "17": [
+    {
+      "acro": "TEG",
+      "name": "Mesencephalic Tegmentum",
+      "x": 574,
+      "y": 750,
+      "w": 86,
+      "h": 36,
+      "conf": 91
+    },
+    {
+      "acro": "LR",
+      "name": "Lateral Recess of Diencephalic Ventricle",
+      "x": 666,
+      "y": 1566,
+      "w": 48,
+      "h": 36,
+      "conf": 97
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 755,
+      "y": 1614,
+      "w": 59,
+      "h": 38,
+      "conf": 95
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 511,
+      "y": 1313,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CE",
+      "name": "Nucleus Centralis of the Inferior Lobe",
+      "x": 689,
+      "y": 1229,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CM",
+      "name": "Corpus Mammillare",
+      "x": 866,
+      "y": 1213,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "MLF",
+      "name": "Medial Longitudinal Fasciculus",
+      "x": 899,
+      "y": 996,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 962,
+      "y": 794,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VCm",
+      "name": "Medial Lobe of Vc",
+      "x": 721,
+      "y": 532,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "LV",
+      "name": "Nucleus Lateralis Valvulae",
+      "x": 628,
+      "y": 656,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TS",
+      "name": "Torus Semicircularis",
+      "x": 366,
+      "y": 601,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 464,
+      "y": 376,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 212,
+      "y": 527,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 118,
+      "y": 290,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "18": [
+    {
+      "acro": "TEG",
+      "name": "Mesencephalic Tegmentum",
+      "x": 105,
+      "y": 429,
+      "w": 80,
+      "h": 35,
+      "conf": 88
+    },
+    {
+      "acro": "VCm",
+      "name": "Medial Lobe of Vc",
+      "x": 685,
+      "y": 448,
+      "w": 99,
+      "h": 35,
+      "conf": 58
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 244,
+      "y": 476,
+      "w": 86,
+      "h": 35,
+      "conf": 92
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 918,
+      "y": 817,
+      "w": 56,
+      "h": 35,
+      "conf": 96
+    },
+    {
+      "acro": "CM",
+      "name": "Corpus Mammillare",
+      "x": 857,
+      "y": 1278,
+      "w": 67,
+      "h": 35,
+      "conf": 94
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 524,
+      "y": 1342,
+      "w": 54,
+      "h": 35,
+      "conf": 96
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 575,
+      "y": 259,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TS",
+      "name": "Torus Semicircularis",
+      "x": 370,
+      "y": 590,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "LV",
+      "name": "Nucleus Lateralis Valvulae",
+      "x": 618,
+      "y": 700,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "MLF",
+      "name": "Medial Longitudinal Fasciculus",
+      "x": 896,
+      "y": 1013,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "Hd",
+      "name": "Dorsal Zone of Periventricular Hypothalamus",
+      "x": 720,
+      "y": 1473,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "19": [
+    {
+      "acro": "TS",
+      "name": "Torus Semicircularis",
+      "x": 358,
+      "y": 531,
+      "w": 50,
+      "h": 35,
+      "conf": 96
+    },
+    {
+      "acro": "VC",
+      "name": "Valvura of Cerebellum",
+      "x": 624,
+      "y": 569,
+      "w": 57,
+      "h": 35,
+      "conf": 93
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 189,
+      "y": 580,
+      "w": 79,
+      "h": 35,
+      "conf": 65
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 600,
+      "y": 1351,
+      "w": 55,
+      "h": 35,
+      "conf": 96
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 839,
+      "y": 830,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "LV",
+      "name": "Nucleus Lateralis Valvulae",
+      "x": 556,
+      "y": 742,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "VCl",
+      "name": "Lateral Lobe of Vc",
+      "x": 475,
+      "y": 323,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "CCe",
+      "name": "Corpus Cerebelli",
+      "x": 725,
+      "y": 149,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 152,
+      "y": 264,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "20": [
+    {
+      "acro": "CCe",
+      "name": "Corpus Cerebelli",
+      "x": 732,
+      "y": 264,
+      "w": 83,
+      "h": 35,
+      "conf": 84
+    },
+    {
+      "acro": "TEC",
+      "name": "Optic Tectum",
+      "x": 218,
+      "y": 512,
+      "w": 81,
+      "h": 37,
+      "conf": 96
+    },
+    {
+      "acro": "TS",
+      "name": "Torus Semicircularis",
+      "x": 366,
+      "y": 757,
+      "w": 50,
+      "h": 37,
+      "conf": 96
+    },
+    {
+      "acro": "AC",
+      "name": "Anterior Cerebellar Tract",
+      "x": 505,
+      "y": 759,
+      "w": 58,
+      "h": 37,
+      "conf": 96
+    },
+    {
+      "acro": "SEG",
+      "name": "Secondary Gustatory Nucleus",
+      "x": 512,
+      "y": 980,
+      "w": 79,
+      "h": 35,
+      "conf": 96
+    },
+    {
+      "acro": "DF",
+      "name": "Nucleus Diffusus of the Inferior Lobe",
+      "x": 624,
+      "y": 1589,
+      "w": 54,
+      "h": 37,
+      "conf": 96
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 830,
+      "y": 1026,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "SRF",
+      "name": "Superior Reticular Formation",
+      "x": 643,
+      "y": 1136,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "PGZ",
+      "name": "Periventricular Gray Zone",
+      "x": 183,
+      "y": 718,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "21": [
+    {
+      "acro": "CCe",
+      "name": "Corpus Cerebelli",
+      "x": 452,
+      "y": 174,
+      "w": 81,
+      "h": 35,
+      "conf": 88
+    },
+    {
+      "acro": "SEG",
+      "name": "Secondary Gustatory Nucleus",
+      "x": 130,
+      "y": 955,
+      "w": 80,
+      "h": 35,
+      "conf": 96
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 596,
+      "y": 1179,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "SRF",
+      "name": "Superior Reticular Formation",
+      "x": 404,
+      "y": 1429,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "22": [
+    {
+      "acro": "CCe",
+      "name": "Corpus Cerebelli",
+      "x": 493,
+      "y": 198,
+      "w": 82,
+      "h": 35,
+      "conf": 87
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 586,
+      "y": 1122,
+      "w": 56,
+      "h": 35,
+      "conf": 96
+    },
+    {
+      "acro": "SRF",
+      "name": "Superior Reticular Formation",
+      "x": 475,
+      "y": 1452,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "EG",
+      "name": "Eminentia Granularis",
+      "x": 185,
+      "y": 838,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "23": [
+    {
+      "acro": "EG",
+      "name": "Eminentia Granularis",
+      "x": 176,
+      "y": 828,
+      "w": 50,
+      "h": 33,
+      "conf": 96
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 674,
+      "y": 1129,
+      "w": 52,
+      "h": 33,
+      "conf": 96
+    },
+    {
+      "acro": "CCe",
+      "name": "Corpus Cerebelli",
+      "x": 508,
+      "y": 333,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "SRF",
+      "name": "Superior Reticular Formation",
+      "x": 519,
+      "y": 1581,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "24": [
+    {
+      "acro": "CCe",
+      "name": "Corpus Cerebelli",
+      "x": 528,
+      "y": 189,
+      "w": 89,
+      "h": 39,
+      "conf": 88
+    },
+    {
+      "acro": "LCa",
+      "name": "Lobus Caudalis Cerebelli",
+      "x": 487,
+      "y": 588,
+      "w": 77,
+      "h": 39,
+      "conf": 90
+    },
+    {
+      "acro": "RV",
+      "name": "Rhombencephalic Ventricle",
+      "x": 651,
+      "y": 718,
+      "w": 114,
+      "h": 39,
+      "conf": 89
+    },
+    {
+      "acro": "CC",
+      "name": "Crista Cerebellaris",
+      "x": 272,
+      "y": 781,
+      "w": 61,
+      "h": 39,
+      "conf": 83
+    },
+    {
+      "acro": "MON",
+      "name": "Medial Octavolateralis Nucleus",
+      "x": 268,
+      "y": 982,
+      "w": 116,
+      "h": 39,
+      "conf": 96
+    },
+    {
+      "acro": "IMRF",
+      "name": "Internediate Reticular Formation",
+      "x": 526,
+      "y": 1402,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ],
+  "25": [
+    {
+      "acro": "LX",
+      "name": "Lobus Vagus",
+      "x": 350,
+      "y": 281,
+      "w": 39,
+      "h": 27,
+      "conf": 93
+    },
+    {
+      "acro": "MLF",
+      "name": "Medial Longitudinal Fasciculus",
+      "x": 737,
+      "y": 766,
+      "w": 68,
+      "h": 27,
+      "conf": 91
+    },
+    {
+      "acro": "Xs",
+      "name": "Sensory Root of Nervu Vagus",
+      "x": 91,
+      "y": 841,
+      "w": 37,
+      "h": 27,
+      "conf": 95
+    },
+    {
+      "acro": "Xm",
+      "name": "Motor Root of Nervus Vagus",
+      "x": 202,
+      "y": 865,
+      "w": 53,
+      "h": 27,
+      "conf": 72
+    },
+    {
+      "acro": "IRF",
+      "name": "Inferior Reticular Formation",
+      "x": 599,
+      "y": 743,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    },
+    {
+      "acro": "DV",
+      "name": "Descending Trigeminal Root",
+      "x": 245,
+      "y": 777,
+      "w": 0,
+      "h": 0,
+      "conf": -1,
+      "manual": true
+    }
+  ]
+}
